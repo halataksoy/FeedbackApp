@@ -1,6 +1,11 @@
 # Feedback App
 
 Basit bir kullanıcı geri bildirim uygulamasıdır. Kullanıcılar frontend üzerinden form doldurarak geri bildirim gönderebilir. Gönderilen veriler ASP.NET Core 8 Web API tarafından RabbitMQ kuyruğuna iletilir ve RabbitMQ consumer servisi tarafından MongoDB'ye kaydedilir.
+![image](https://github.com/user-attachments/assets/407bf7aa-a0cc-4de9-90d9-3e40014cf086)
+![image](https://github.com/user-attachments/assets/72d4d1b4-ab65-4991-8485-deed7455610b)
+![image](https://github.com/user-attachments/assets/53bb647f-80cc-4e17-b536-2410181ee395)
+
+
 
 ---
 
